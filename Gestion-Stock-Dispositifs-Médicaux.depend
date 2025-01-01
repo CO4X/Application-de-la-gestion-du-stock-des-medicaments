@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1735750294 source:c:\users\ayoub\desktop\c++ projets\gestion-stock-dispositifs-médicaux\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<iomanip>
+	<limits>
+	<sstream>
+	<windows.h>
+

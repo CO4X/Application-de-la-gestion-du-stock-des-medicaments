@@ -1,0 +1,5 @@
+ID,Nom,Categorie,Stock,Date_Peremption,Numero_Lot,Fabricant,Instructions_Utilisation
+YOBA-2025-000001,Paracetamol 500mg,Analgsique,200,2025-12-31,P500-A123,Sanofi,Voir notice
+YOBA-2025-000002,Amoxicilline 250mg,Antibiotique,150,2026-06-15,A250-B456,Pfizer,Voir notice
+YOBA-2025-000003,Ibuprofene 400mg,Anti-inflam,100,2025-11-20,I400-C789,Bayer,Voir notice
+YOBA-2025-000005,Omeprazole 20mg,Antiacide,180,2027-03-05,O20-E345,AstraZeneca,Voir notice

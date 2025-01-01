@@ -1,0 +1,40 @@
+Action: Modification
+Date/Heure: 2025-01-01 18:02:13
+ID: YOBA-2025-000003
+Anciennes Valeurs:
+Nom: Ibuprofene 400mg
+Categorie: Anti-inflammatoire
+Stock: 100
+Date de Péremption: 2025-11-20
+Numéro de Lot: I400-C789
+Fabricant: Bayer
+Instructions: Voir notice
+Nouvelles Valeurs:
+Nom: Ibuprofene 400mg
+Categorie: Anti-inflam
+Stock: 100
+Date de Péremption: 2025-11-20
+Numéro de Lot: I400-C789
+Fabricant: Bayer
+Instructions: Voir notice
+-----------------------------------
+Action: Suppression
+Date/Heure: 2025-01-01 18:03:03
+ID: YOBA-2025-000004
+Anciennes Valeurs:
+Nom: Loratadine 10mg
+Categorie: Antihistaminique
+Stock: 250
+Date de Péremption: 2025-08-30
+Numéro de Lot: L10-D012
+Fabricant: J&J
+Instructions: Voir notice
+Nouvelles Valeurs:
+Nom: Loratadine 10mg
+Categorie: Antihistaminique
+Stock: 250
+Date de Péremption: 2025-08-30
+Numéro de Lot: L10-D012
+Fabricant: J&J
+Instructions: Voir notice
+-----------------------------------
